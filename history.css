@@ -1,0 +1,178 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+body {
+	line-height: 1;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+blockquote, q {
+	quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+ 
+html, body{height: 100%;}
+ 
+body{
+	background: white;
+	color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#nadpisi{text-align: center; font-family: arial
+}
+
+
+#header{
+	background-color: #D3D3D3;
+	width: 1200px;
+	height: 50px;
+	margin: 0 auto;
+}
+
+#logo{background-color: #D3D3D3; padding: 10px; border-color: #A9A9A9; width: 200px; height: 50px; float: left;}
+#button_bron{background-color: #D3D3D3; padding: 10px; border-color: #A9A9A9; width: 200px; height: 50px; float: left;}
+#button_fillial{background-color: #D3D3D3; padding: 10px; border-color: #A9A9A9; width: 200px; height: 50px; float: left;}
+#button_lk{background-color: #D3D3D3; padding: 10px; border-color: #A9A9A9; width: 200px; height: 50px; float: left;}
+
+#button_vk{background-color: #D3D3D3; padding: 10px; border-color: #A9A9A9; width: 50px; height: 50px; float: right;}
+#button_tg{background-color: #D3D3D3; padding: 10px; border-color: #A9A9A9; width: 50px; height: 50px; float: right;}
+
+#footer{
+	background-color: #A9A9A9;
+	width: 1200px;
+	height: 150px;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+
+#block_page{
+	background-color: ;
+	width: 1200px;
+	height: 80%;
+	margin: 0 auto;
+}
+
+#left{
+	background-color:#A9A9A9; width: 200px; height: 100%; margin-top: 0px; margin-left: 0px; float: left;
+}
+
+#form_search{
+	background-color: #DCDCDC;
+	width: 180px;
+	height: 150px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+h1{font-size: 20px; margin-bottom: 10px; text-align: center;}
+h2{font-size: 18px; margin-bottom: 10px; text-align: center;}
+
+
+
+
+
+#p1{font-size: 50px; margin-bottom: ; text-align: center; margin-top: 25px; font-family: arial}
+
+#mashine_class{background-color: #D3D3D3; padding: 10px; border-color: #A9A9A9; width: 100%; height: 50px;}
+#mashine_list{background-color: #D3D3D3; padding: 10px; border-color: #A9A9A9; width: 100%; height: 50px;}
+#mashine_button{background-color: #D3D3D3; padding: 10px; border-color: #A9A9A9; width: 100%; height: 40px;}
+
+
+
+#content{
+	background-color: #D3D3D3; width: 1000px; height: 100%; margin-top: 10px; margin-left: 200px; font-family: arial
+}
+
+#block_news_header{
+	background-color: #808080; width: 955px; height: 100px; float: left; margin-left: 25px; margin-top: 20px; font-family: arial
+}
+
+#block_news_1{
+	background-color: #808080; width: 500px; height: 500px; float: left; margin-left: 25px; margin-top: 20px; font-family: arial
+}
+#block_news_2{
+	background-image: url(camry.jpg); width: 430px; height: 500px; float: left; margin-left: 25px; margin-top: 20px; font-family: arial
+}
+#block_news_3{
+	background-color: #808080; width: 220px; height: 30%; float: left; margin-left: 25px; margin-top: 20px; font-family: arial
+}
+#block_news_4{
+	background-color: #808080; width: 220px; height: 30%; float: left; margin-left: 25px; margin-top: 20px; font-family: arial
+}
+
+
+#button_news1{background-color: #D3D3D3;border-color: #A9A9A9;padding: 10px;  width: 200px; height: 50px;  margin-left: 10px; font-family: arial; margin-bottom: 0px}
+#button_news2{background-color: #D3D3D3;border-color: #A9A9A9;padding: 10px;  width: 200px; height: 50px;  margin-left: 10px; font-family: arial; margin-bottom: 0px}
+#button_news3{background-color: #D3D3D3;border-color: #A9A9A9;padding: 10px;  width: 200px; height: 50px;  margin-left: 10px; font-family: arial; margin-bottom: 0px}
+#button_news4{background-color: #D3D3D3;border-color: #A9A9A9;padding: 10px;  width: 200px; height: 50px;  margin-left: 10px; font-family: arial; margin-bottom: 0px}
+
+
+
+#fon_button1{height: 132px; width: 220px; background-color: ; margin-bottom: 0px}
+#fon_button2{height: 145px; width: 220px; background-color: ; margin-bottom: 0px}
+#fon_button3{height: 180px; width: 220px; background-color: ; margin-bottom: 0px}
+#fon_button4{height: 95px; width: 220px; background-color: ; margin-bottom: 0px}
+
+#map{margin-top: 25px; margin-left: 25px}
+
+#toyota{
+	background-image: url(camry.jpg);
+	width: 100%;
+	height: 100%;
+}
+
+h4 {
+  font-size: 25px;
+  margin-bottom: 10px;
+}
